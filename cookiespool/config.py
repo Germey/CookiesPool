@@ -1,19 +1,19 @@
 # Redis数据库地址
-REDIS_HOST = 'DataCrawl-Pool.redis.cache.chinacloudapi.cn'
+REDIS_HOST = ''
 
 # Redis端口
 REDIS_PORT = 6379
 
 # Redis密码，如无填None
-REDIS_PASSWORD = 'kk7YBCEHvswKYORLA6FCF3rfpi8mZXlKnAqBZIXqXXE='
+REDIS_PASSWORD = ''
 
 # 配置信息，无需修改
 REDIS_DOMAIN = '*'
 REDIS_NAME = '*'
 
 # 云打码相关配置到yundama.com申请注册
-YUNDAMA_USERNAME = 'Germey'
-YUNDAMA_PASSWORD = 'CQCcqc123'
+YUNDAMA_USERNAME = ''
+YUNDAMA_PASSWORD = ''
 YUNDAMA_APP_ID = '3372'
 YUNDAMA_APP_KEY = '1b586a30bfda5c7fa71c881075ba49d0'
 
