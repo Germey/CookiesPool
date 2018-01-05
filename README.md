@@ -2,7 +2,7 @@
 
 可扩展的Cookies池，目前对接了新浪微博，可自行扩展其他站点
 
-亲测可用，利用它已经3天成功抓取1亿条微博数据
+优化版(推荐)：[https://github.com/Python3WebSpider/CookiesPool](https://github.com/Python3WebSpider/CookiesPool)
 
 ## 安装
 
